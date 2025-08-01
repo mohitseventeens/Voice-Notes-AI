@@ -1,0 +1,8 @@
+{
+  "name": "Mobile version Dictation App - V4",
+  "description": "V3 -> Laps functionality, Upload Audio, Modes Updated",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
